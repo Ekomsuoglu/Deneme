@@ -1,0 +1,14 @@
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\bin\Debug\netcoreapp3.1\CA_GitDeneme.exe
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\bin\Debug\netcoreapp3.1\CA_GitDeneme.deps.json
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\bin\Debug\netcoreapp3.1\CA_GitDeneme.runtimeconfig.json
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\bin\Debug\netcoreapp3.1\CA_GitDeneme.runtimeconfig.dev.json
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\bin\Debug\netcoreapp3.1\CA_GitDeneme.dll
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\bin\Debug\netcoreapp3.1\CA_GitDeneme.pdb
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.csproj.AssemblyReference.cache
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.AssemblyInfoInputs.cache
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.AssemblyInfo.cs
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.csproj.CoreCompileInputs.cache
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.dll
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.pdb
+C:\Users\emirhan.komsuoglu\source\repos\CA_GitDeneme\CA_GitDeneme\obj\Debug\netcoreapp3.1\CA_GitDeneme.genruntimeconfig.cache
